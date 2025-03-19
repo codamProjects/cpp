@@ -1,0 +1,4 @@
+.vscode
+cpp*/.vscode
+cpp*/ex*/obj/*
+cpp05/*_shrubbery
